@@ -119,5 +119,5 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_DIRS = [
-    BASE_DIR / "notes" / "static",  # your app's static folder
+    BASE_DIR / "notes" / "static",  
 ]
